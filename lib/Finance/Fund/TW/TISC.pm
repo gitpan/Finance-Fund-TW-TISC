@@ -5,7 +5,7 @@ use HTML::TableExtract;
 use Data::Dumper;
 use Encode qw/from_to/;
 
-our $VERSION = '0.1';
+our $VERSION = '0.02';
 
 sub new() {
 	my $class = shift;
